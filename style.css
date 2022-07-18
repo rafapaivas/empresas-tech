@@ -1,0 +1,11 @@
+th {
+    cursor: pointer;
+}
+
+#tecnologia {
+    display: none;
+}
+
+tr:nth-child(even) {
+    background-color: #f4f4f4;
+}
