@@ -1,3 +1,8 @@
+//efeito fade in
+$(document).ready(function(){
+  $("body").fadeIn("slow");
+});
+
 //slide up-down da tabela 01
 $(document).ready(function(){
   $("#slide-tec").click(function(){
